@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://<2300031620>.github.io/travel-frontend/"
+}
